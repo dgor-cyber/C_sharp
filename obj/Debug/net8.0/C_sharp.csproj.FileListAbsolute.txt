@@ -1,0 +1,14 @@
+C:\Users\D\Documents\C_sharp\bin\Debug\net8.0\C_sharp.exe
+C:\Users\D\Documents\C_sharp\bin\Debug\net8.0\C_sharp.deps.json
+C:\Users\D\Documents\C_sharp\bin\Debug\net8.0\C_sharp.runtimeconfig.json
+C:\Users\D\Documents\C_sharp\bin\Debug\net8.0\C_sharp.dll
+C:\Users\D\Documents\C_sharp\bin\Debug\net8.0\C_sharp.pdb
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.AssemblyInfoInputs.cache
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.AssemblyInfo.cs
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.dll
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\refint\C_sharp.dll
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.pdb
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\C_sharp.genruntimeconfig.cache
+C:\Users\D\Documents\C_sharp\obj\Debug\net8.0\ref\C_sharp.dll
