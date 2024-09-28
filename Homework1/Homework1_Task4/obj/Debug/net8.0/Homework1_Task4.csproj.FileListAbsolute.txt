@@ -1,0 +1,15 @@
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\bin\Debug\net8.0\Homework1_Task4.exe
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\bin\Debug\net8.0\Homework1_Task4.deps.json
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\bin\Debug\net8.0\Homework1_Task4.runtimeconfig.json
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\bin\Debug\net8.0\Homework1_Task4.dll
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\bin\Debug\net8.0\Homework1_Task4.pdb
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.AssemblyInfoInputs.cache
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.AssemblyInfo.cs
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.sourcelink.json
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.dll
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\refint\Homework1_Task4.dll
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.pdb
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\Homework1_Task4.genruntimeconfig.cache
+C:\Users\D\Documents\C_sharp\Homework1\Homework1_Task4\obj\Debug\net8.0\ref\Homework1_Task4.dll
