@@ -17,3 +17,9 @@ double prod3 = d1 * i1;
 Console.WriteLine(prod1);
 Console.WriteLine(prod2);
 Console.WriteLine(prod3);
+
+int quotient = i1 / i2;
+Console.WriteLine(quotient);
+
+double quotient2 = d1 / i1;
+Console.WriteLine(quotient2);
